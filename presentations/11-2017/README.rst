@@ -1,4 +1,4 @@
-::
+.. code-block:: yaml
 
     - name: Ansible Meetup
       hosts: Red Hat Montreal Office
